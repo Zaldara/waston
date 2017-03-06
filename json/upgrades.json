@@ -1,8 +1,8 @@
 [
   {
     "key": "upgrade-masterstudents1",
-    "name": "Kinderzimmer",
-    "description": "A shared room for all your Master students. Used to be a server room.",
+    "name": "i dont want to rename the upgrades there 2 many",
+    "description": "upgradedescription1",
     "effect": "Master Students produce +2 data per second.",
     "icon": "fa-group",
     "cost": 4e2,
@@ -13,7 +13,7 @@
   {
     "key": "upgrade-masterstudents2",
     "name": "Own desk",
-    "description": "Not having to share one is a blessing.",
+    "description": "upgradedescription2",
     "effect": "Master Students produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 4e3,
@@ -27,7 +27,7 @@
   {
     "key": "upgrade-masterstudents3",
     "name": "Grid Access",
-    "description": "Give your Master students access to high performance computing resources.",
+    "description": "upgradedescription3",
     "effect": "Master Students produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 4e4,
@@ -38,7 +38,7 @@
   {
     "key": "upgrade-masterstudents4",
     "name": "Mentoring",
-    "description": "Weekly counseling with a professional physicist.",
+    "description": "upgradedescription4",
     "effect": "Master Students produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 4e5,
@@ -49,7 +49,7 @@
   {
     "key": "upgrade-phdstudents1",
     "name": "Thesis supervision",
-    "description": "Somebody takes care of your PhD Students.",
+    "description": "upgradedescription5",
     "effect": "PhD Students produce +16 data per second.",
     "icon": "fa-group",
     "cost": 6e3,
@@ -60,7 +60,7 @@
   {
     "key": "upgrade-phdstudents2",
     "name": "Own office",
-    "description": "Each PhD student gets a quiet place for themselves.",
+    "description": "upgradedescription6",
     "effect": "PhD Students produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 6e4,
@@ -71,7 +71,7 @@
   {
     "key": "upgrade-phdstudents3",
     "name": "Research Abroad",
-    "description": "1 year of research stay abroad for your PhD students.",
+    "description": "upgradedescription7",
     "effect": "PhD Students produce twice as much data per second.",
     "icon": "fa-group",
     "cost": 6e5,
